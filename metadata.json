@@ -1,0 +1,5 @@
+{
+  "name": "Lisa Nova",
+  "description": "A lightweight, beginner-friendly missile defense game built with React and Canvas. Protect your cities from incoming rockets with strategic intercepts.",
+  "requestFramePermissions": []
+}
